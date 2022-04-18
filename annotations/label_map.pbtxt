@@ -1,0 +1,96 @@
+item { 
+	name: 'Hello/ Hi'
+	id:1
+}
+item { 
+	name: 'How'
+	id:2
+}
+item { 
+	name: 'Yes/ Okay'
+	id:3
+}
+item { 
+	name: 'No'
+	id:4
+}
+item { 
+	name: 'Nice'
+	id:5
+}
+item { 
+	name: 'To'
+	id:6
+}
+item { 
+	name: 'Meet'
+	id:7
+}
+item { 
+	name: 'You'
+	id:8
+}
+item { 
+	name: 'I/ Me'
+	id:9
+}
+item { 
+	name: 'Thank You'
+	id:10
+}
+item { 
+	name: 'Peace'
+	id:11
+}
+item { 
+	name: 'Love'
+	id:12
+}
+item { 
+	name: 'Mother'
+	id:13
+}
+item { 
+	name: 'Father'
+	id:14
+}
+item { 
+	name: 'Friend'
+	id:15
+}
+item { 
+	name: 'Please'
+	id:16
+}
+item { 
+	name: 'Eat/ Food'
+	id:17
+}
+item { 
+	name: 'Sorry'
+	id:18
+}
+item { 
+	name: 'Write'
+	id:19
+}
+item { 
+	name: 'Help'
+	id:20
+}
+item { 
+	name: 'Good Job'
+	id:21
+}
+item { 
+	name: 'Live Long and Prosper'
+	id:22
+}
+item { 
+	name: 'Stand'
+	id:23
+}
+item { 
+	name: 'Up'
+	id:24
+}
